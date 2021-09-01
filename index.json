@@ -1,7 +1,18 @@
 {
-  "emotes" : [
-
-  ],
+  "name" : "hmuy's repo",
   "path" : "emotes",
-  "name" : "hmuy's repo"
+  "emotes" : [
+    {
+      "type" : ".png",
+      "name" : "kek"
+    },
+    {
+      "type" : ".gif",
+      "name" : "LLyay"
+    },
+    {
+      "type" : ".png",
+      "name" : "thishowitis"
+    }
+  ]
 }
