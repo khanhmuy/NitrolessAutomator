@@ -1,6 +1,6 @@
 git add .
+git pull
 git commit -m "add emojis"
-pause
 git push origin main
 pause
 exit
