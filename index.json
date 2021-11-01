@@ -1,25 +1,55 @@
 {
-  "name" : "hmuy's repo",
-  "path" : "emotes",
   "emotes" : [
     {
-      "name" : "khohieu",
+      "name" : "catjam",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "02omegalul"
+    },
+    {
+      "name" : "uhh",
       "type" : ".png"
     },
     {
-      "name" : "hayday",
+      "name" : "nfr",
       "type" : ".png"
     },
     {
-      "name" : "intjpray",
+      "name" : "scared",
+      "type" : ".png"
+    },
+    {
+      "name" : "02love",
+      "type" : ".png"
+    },
+    {
+      "name" : "LLyay",
+      "type" : ".gif"
+    },
+    {
+      "name" : "flosh",
+      "type" : ".png"
+    },
+    {
+      "name" : "ngu",
       "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "amen"
+      "name" : "omegalul"
     },
     {
-      "name" : "fr",
+      "type" : ".png",
+      "name" : "intjpray"
+    },
+    {
+      "type" : ".png",
+      "name" : "sad"
+    },
+    {
+      "name" : "02uwu",
       "type" : ".png"
     },
     {
@@ -27,32 +57,32 @@
       "type" : ".png"
     },
     {
-      "type" : ".png",
-      "name" : "uhh"
-    },
-    {
-      "name" : "flosh",
+      "name" : "kek",
       "type" : ".png"
     },
     {
-      "type" : ".png",
-      "name" : "trol"
+      "name" : "hayday",
+      "type" : ".png"
     },
     {
-      "type" : ".png",
-      "name" : "kek"
+      "name" : "thonk",
+      "type" : ".png"
     },
     {
-      "type" : ".png",
-      "name" : "bruh"
+      "name" : "notlikethis",
+      "type" : ".gif"
     },
     {
       "name" : "02patgif",
       "type" : ".gif"
     },
     {
-      "name" : "LLyay",
-      "type" : ".gif"
+      "type" : ".png",
+      "name" : "pat"
+    },
+    {
+      "name" : "95",
+      "type" : ".png"
     },
     {
       "name" : "womm",
@@ -64,47 +94,53 @@
     },
     {
       "type" : ".png",
-      "name" : "thishowitis"
+      "name" : "huan"
     },
     {
-      "name" : "cry",
-      "type" : ".png"
+      "type" : ".png",
+      "name" : "trol"
     },
     {
-      "name" : "omegalul",
-      "type" : ".png"
+      "type" : ".png",
+      "name" : "cry"
+    },
+    {
+      "type" : ".png",
+      "name" : "frcry"
+    },
+    {
+      "type" : ".png",
+      "name" : "tr"
     },
     {
       "name" : "bruhinside",
       "type" : ".png"
     },
     {
-      "name" : "notlikethis",
-      "type" : ".gif"
+      "type" : ".png",
+      "name" : "fr"
     },
     {
       "type" : ".png",
-      "name" : "nfr"
+      "name" : "bruh"
     },
     {
-      "name" : "huan",
+      "type" : ".png",
+      "name" : "wholesome"
+    },
+    {
+      "name" : "thishowitis",
       "type" : ".png"
     },
     {
-      "name" : "95",
+      "name" : "amen",
       "type" : ".png"
     },
     {
-      "type" : ".png",
-      "name" : "ngu"
-    },
-    {
-      "type" : ".png",
-      "name" : "sad"
-    },
-    {
-      "type" : ".png",
-      "name" : "fruhh"
+      "name" : "fruhh",
+      "type" : ".png"
     }
-  ]
+  ],
+  "path" : "emotes",
+  "name" : "hmuy's repo"
 }
