@@ -1,78 +1,110 @@
 {
+  "name" : "hmuy's repo",
+  "path" : "emotes",
   "emotes" : [
     {
-      "type" : ".png",
-      "name" : "intjpray"
-    },
-    {
-      "type" : ".png",
-      "name" : "nfr"
+      "name" : "khohieu",
+      "type" : ".png"
     },
     {
       "name" : "hayday",
       "type" : ".png"
     },
     {
-      "name" : "huan",
-      "type" : ".png"
-    },
-    {
-      "name" : "kek",
+      "name" : "intjpray",
       "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "kekw"
+      "name" : "amen"
+    },
+    {
+      "name" : "fr",
+      "type" : ".png"
+    },
+    {
+      "name" : "smugu",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "uhh"
+    },
+    {
+      "name" : "flosh",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "trol"
+    },
+    {
+      "type" : ".png",
+      "name" : "kek"
+    },
+    {
+      "type" : ".png",
+      "name" : "bruh"
+    },
+    {
+      "name" : "02patgif",
+      "type" : ".gif"
+    },
+    {
+      "name" : "LLyay",
+      "type" : ".gif"
+    },
+    {
+      "name" : "womm",
+      "type" : ".png"
+    },
+    {
+      "name" : "kekw",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "thishowitis"
+    },
+    {
+      "name" : "cry",
+      "type" : ".png"
+    },
+    {
+      "name" : "omegalul",
+      "type" : ".png"
+    },
+    {
+      "name" : "bruhinside",
+      "type" : ".png"
+    },
+    {
+      "name" : "notlikethis",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "nfr"
+    },
+    {
+      "name" : "huan",
+      "type" : ".png"
     },
     {
       "name" : "95",
       "type" : ".png"
     },
     {
-      "name" : "bruh",
-      "type" : ".png"
-    },
-    {
-      "name" : "uhh",
-      "type" : ".png"
-    },
-    {
-      "name" : "thishowitis",
-      "type" : ".png"
-    },
-    {
-      "name" : "khohieu",
-      "type" : ".png"
-    },
-    {
-      "name" : "amen",
-      "type" : ".png"
+      "type" : ".png",
+      "name" : "ngu"
     },
     {
       "type" : ".png",
-      "name" : "omegalul"
-    },
-    {
-      "type" : ".png",
-      "name" : "bruhinside"
+      "name" : "sad"
     },
     {
       "type" : ".png",
       "name" : "fruhh"
-    },
-    {
-      "name" : "ngu",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "LLyay"
-    },
-    {
-      "name" : "fr",
-      "type" : ".png"
     }
-  ],
-  "path" : "emotes",
-  "name" : "hmuy's repo"
+  ]
 }
