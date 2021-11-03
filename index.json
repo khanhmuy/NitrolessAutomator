@@ -1,67 +1,24 @@
 {
+  "path" : "emotes",
   "emotes" : [
     {
-      "name" : "catjam",
-      "type" : ".gif"
-    },
-    {
       "type" : ".png",
-      "name" : "02omegalul"
+      "name" : "ngu"
     },
     {
-      "name" : "uhh",
+      "name" : "CatNotLikeThis",
       "type" : ".png"
     },
     {
-      "name" : "nfr",
+      "name" : "sad",
       "type" : ".png"
     },
     {
-      "name" : "scared",
-      "type" : ".png"
+      "type" : ".gif",
+      "name" : "trolla"
     },
     {
-      "name" : "02love",
-      "type" : ".png"
-    },
-    {
-      "name" : "LLyay",
-      "type" : ".gif"
-    },
-    {
-      "name" : "flosh",
-      "type" : ".png"
-    },
-    {
-      "name" : "ngu",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "omegalul"
-    },
-    {
-      "type" : ".png",
-      "name" : "intjpray"
-    },
-    {
-      "type" : ".png",
-      "name" : "sad"
-    },
-    {
-      "name" : "02uwu",
-      "type" : ".png"
-    },
-    {
-      "name" : "smugu",
-      "type" : ".png"
-    },
-    {
-      "name" : "kek",
-      "type" : ".png"
-    },
-    {
-      "name" : "hayday",
+      "name" : "02smug",
       "type" : ".png"
     },
     {
@@ -69,78 +26,137 @@
       "type" : ".png"
     },
     {
-      "name" : "notlikethis",
-      "type" : ".gif"
-    },
-    {
-      "name" : "02patgif",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "pat"
-    },
-    {
-      "name" : "95",
-      "type" : ".png"
-    },
-    {
       "name" : "womm",
       "type" : ".png"
     },
     {
-      "name" : "kekw",
-      "type" : ".png"
+      "name" : "catjam",
+      "type" : ".gif"
     },
     {
       "type" : ".png",
-      "name" : "huan"
+      "name" : "kekw"
     },
     {
-      "type" : ".png",
-      "name" : "trol"
-    },
-    {
-      "type" : ".png",
-      "name" : "cry"
-    },
-    {
-      "type" : ".png",
-      "name" : "frcry"
-    },
-    {
-      "type" : ".png",
-      "name" : "tr"
-    },
-    {
-      "name" : "bruhinside",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "fr"
-    },
-    {
-      "type" : ".png",
-      "name" : "bruh"
-    },
-    {
-      "type" : ".png",
-      "name" : "wholesome"
-    },
-    {
-      "name" : "thishowitis",
-      "type" : ".png"
+      "type" : ".gif",
+      "name" : "notlikethis"
     },
     {
       "name" : "amen",
       "type" : ".png"
     },
     {
-      "name" : "fruhh",
+      "type" : ".png",
+      "name" : "02omegalul"
+    },
+    {
+      "name" : "trol",
+      "type" : ".png"
+    },
+    {
+      "name" : "hayday",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "02uwu"
+    },
+    {
+      "type" : ".png",
+      "name" : "smugu"
+    },
+    {
+      "name" : "huan",
+      "type" : ".png"
+    },
+    {
+      "name" : "02love",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "bruhinside"
+    },
+    {
+      "name" : "uhh",
+      "type" : ".png"
+    },
+    {
+      "name" : "LLyay",
+      "type" : ".gif"
+    },
+    {
+      "name" : "omegalul",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "fruhh"
+    },
+    {
+      "name" : "fr",
+      "type" : ".png"
+    },
+    {
+      "name" : "frcry",
+      "type" : ".png"
+    },
+    {
+      "name" : "bruh",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "nfr"
+    },
+    {
+      "name" : "cry",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "95"
+    },
+    {
+      "type" : ".gif",
+      "name" : "02patgif"
+    },
+    {
+      "type" : ".png",
+      "name" : "flosh"
+    },
+    {
+      "type" : ".png",
+      "name" : "hugs"
+    },
+    {
+      "type" : ".png",
+      "name" : "kek"
+    },
+    {
+      "type" : ".png",
+      "name" : "pat"
+    },
+    {
+      "name" : "thishowitis",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "intjpray"
+    },
+    {
+      "name" : "tr",
+      "type" : ".png"
+    },
+    {
+      "name" : "scared",
+      "type" : ".png"
+    },
+    {
+      "name" : "wholesome",
       "type" : ".png"
     }
   ],
-  "path" : "emotes",
   "name" : "hmuy's repo"
 }
