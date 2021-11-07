@@ -1,180 +1,12 @@
 {
   "emotes" : [
     {
-      "name" : "bruh",
-      "type" : ".png"
-    },
-    {
-      "name" : "fruhh",
-      "type" : ".png"
-    },
-    {
-      "name" : "bruhinside",
-      "type" : ".png"
-    },
-    {
-      "name" : "intjpray",
-      "type" : ".png"
-    },
-    {
-      "name" : "fr",
-      "type" : ".png"
-    },
-    {
       "type" : ".png",
       "name" : "VERYCONCERNED"
     },
     {
-      "type" : ".gif",
-      "name" : "dontcare"
-    },
-    {
-      "name" : "omegalul",
-      "type" : ".png"
-    },
-    {
       "type" : ".png",
-      "name" : "trol"
-    },
-    {
-      "name" : "hehe",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "02patgif"
-    },
-    {
-      "name" : "kek",
-      "type" : ".png"
-    },
-    {
-      "name" : "kekw",
-      "type" : ".png"
-    },
-    {
-      "name" : "uhh",
-      "type" : ".png"
-    },
-    {
-      "name" : "nfr",
-      "type" : ".png"
-    },
-    {
-      "name" : "thisisnothowitis",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "02smug"
-    },
-    {
-      "name" : "notlikethis",
-      "type" : ".gif"
-    },
-    {
-      "name" : "trolres",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "hugs"
-    },
-    {
-      "name" : "flosh",
-      "type" : ".png"
-    },
-    {
-      "name" : "blobdance2",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "trolldisappointed"
-    },
-    {
-      "name" : "thatsniceandallbutwhotfasked",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "smugu"
-    },
-    {
-      "name" : "sus",
-      "type" : ".png"
-    },
-    {
-      "name" : "trolla",
-      "type" : ".gif"
-    },
-    {
-      "name" : "LLyay",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "02hype"
-    },
-    {
-      "name" : "thishowitis",
-      "type" : ".png"
-    },
-    {
-      "name" : "95",
-      "type" : ".png"
-    },
-    {
-      "name" : "catjam",
-      "type" : ".gif"
-    },
-    {
-      "name" : "pat",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "hayday"
-    },
-    {
-      "name" : "whatcanisay",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "02love"
-    },
-    {
-      "type" : ".png",
-      "name" : "womm"
-    },
-    {
-      "type" : ".png",
-      "name" : "tr"
-    },
-    {
-      "type" : ".png",
-      "name" : "02uwu"
-    },
-    {
-      "name" : "CatNotLikeThis",
-      "type" : ".png"
-    },
-    {
-      "name" : "shrug",
-      "type" : ".png"
-    },
-    {
-      "name" : "frcry",
-      "type" : ".png"
-    },
-    {
-      "name" : "blobdance",
-      "type" : ".gif"
-    },
-    {
-      "name" : "02smileyess",
-      "type" : ".gif"
+      "name" : "kek"
     },
     {
       "name" : "sad",
@@ -182,50 +14,34 @@
     },
     {
       "type" : ".png",
-      "name" : "scared"
+      "name" : "uhh"
     },
     {
-      "type" : ".png",
-      "name" : "bigbrain"
+      "name" : "bigbrain",
+      "type" : ".png"
     },
     {
-      "name" : "cry",
+      "name" : "kekw",
+      "type" : ".png"
+    },
+    {
+      "name" : "02smug",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "catjam"
+    },
+    {
+      "name" : "flosh",
       "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "amen"
-    },
-    {
-      "type" : ".png",
-      "name" : "02omegalul"
-    },
-    {
-      "name" : "pogchomp",
-      "type" : ".gif"
-    },
-    {
-      "name" : "VeryNice",
-      "type" : ".png"
+      "name" : "thishowitis"
     },
     {
       "name" : "why",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "thonk"
-    },
-    {
-      "name" : "ngu",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "02think"
-    },
-    {
-      "name" : "floshed",
       "type" : ".png"
     },
     {
@@ -234,7 +50,191 @@
     },
     {
       "type" : ".png",
+      "name" : "02love"
+    },
+    {
+      "name" : "bruhinside",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "notlikethis"
+    },
+    {
+      "type" : ".png",
+      "name" : "02think"
+    },
+    {
+      "name" : "amen",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "cry"
+    },
+    {
+      "name" : "VeryNice",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
       "name" : "huan"
+    },
+    {
+      "type" : ".png",
+      "name" : "hugs"
+    },
+    {
+      "type" : ".png",
+      "name" : "trolres"
+    },
+    {
+      "name" : "pat",
+      "type" : ".png"
+    },
+    {
+      "name" : "02hype",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "pogchomp"
+    },
+    {
+      "type" : ".png",
+      "name" : "trolldisappointed"
+    },
+    {
+      "type" : ".png",
+      "name" : "smugu"
+    },
+    {
+      "type" : ".png",
+      "name" : "shrug"
+    },
+    {
+      "name" : "whatcanisay",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "intjpray"
+    },
+    {
+      "name" : "fr",
+      "type" : ".png"
+    },
+    {
+      "name" : "fruhh",
+      "type" : ".png"
+    },
+    {
+      "name" : "02patgif",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ngu",
+      "type" : ".png"
+    },
+    {
+      "name" : "blobdance2",
+      "type" : ".gif"
+    },
+    {
+      "name" : "dontcare",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "02smileyess"
+    },
+    {
+      "name" : "thisisnothowitis",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "womm"
+    },
+    {
+      "name" : "hehe",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "02omegalul"
+    },
+    {
+      "name" : "omegalul",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "nfr"
+    },
+    {
+      "name" : "95",
+      "type" : ".png"
+    },
+    {
+      "name" : "floshed",
+      "type" : ".png"
+    },
+    {
+      "name" : "trolla",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "scared"
+    },
+    {
+      "name" : "02uwu",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "CatNotLikeThis"
+    },
+    {
+      "name" : "thonk",
+      "type" : ".png"
+    },
+    {
+      "name" : "hayday",
+      "type" : ".png"
+    },
+    {
+      "name" : "LLyay",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "thatsniceandallbutwhotfasked"
+    },
+    {
+      "name" : "trol",
+      "type" : ".png"
+    },
+    {
+      "name" : "blobdance",
+      "type" : ".gif"
+    },
+    {
+      "name" : "bruh",
+      "type" : ".png"
+    },
+    {
+      "name" : "sus",
+      "type" : ".png"
+    },
+    {
+      "name" : "frcry",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "tr"
     }
   ],
   "name" : "hmuy's emotess",
