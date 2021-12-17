@@ -14,8 +14,8 @@
             font-size: 20px;
         }
 
-        .title {
-            font-size: 40px
+        h2 {
+            font-size: 40px;
         }
 
         a {
@@ -38,9 +38,10 @@
     </style>
 
     <body>
-        <p class="title">hmuy's emotes</p>
+        <h2>hmuy's emotes</h2>
         <a href="https://khanhmuy.github.io/nitroless/" id="copy">https://khanhmuy.github.io/nitroless</a>
         <button type="button" onclick="copyEvent('copy')">Copy</button>
+        <p id="copied" style="display: none;">copied!</p>
     </body>
 
     <script>
@@ -48,7 +49,10 @@
             var str = document.getElementById(id);
             window.getSelection().selectAllChildren(str);
             document.execCommand("Copy")
+            document.getElementById("copied").style.display = "block";
+            setTimeout(function(){
+                document.getElementById("copied").style.display = "none";
+            }, 2500);
         }
-
     </script>
 </html>
