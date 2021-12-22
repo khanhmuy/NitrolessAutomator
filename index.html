@@ -7,8 +7,8 @@
 
     <style>
         body {
-            color: #575757;
-            background-color: #faffed;
+            color: #d8d8d8;
+            background-color: #121212;
             text-align: center;
             font-family: 'Inter', sans-serif;
             font-size: 20px;
@@ -28,20 +28,48 @@
         }
 
         #copy:hover {
-            text-decoration: none;
             color: lightblue;
         }
 
         button {
             vertical-align: middle;
         }
+        .footer {
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            text-align: center;
+        }
+        .social {
+            width: 30px;
+            height: 30px;
+            margin-left: 10px;
+            margin-bottom: 10px;
+            filter: invert(30%);
+            transition: ease-in-out 0.2s;
+        }
+        .social:hover {
+            filter: invert(100%);
+        }
+        .homepage {
+            color: inherit;
+            transition: ease-in-out 0.2s;
+        }
+        .homepage:hover {
+            color: #ffc0dd;
+        }
     </style>
 
     <body>
-        <h2>hmuy's emotes</h2>
+        <h2><a href="https://khanhmuy.github.io" class="homepage">hmuy</a>'s emotes</h2>
         <a href="https://khanhmuy.github.io/nitroless/" id="copy">https://khanhmuy.github.io/nitroless</a>
         <button type="button" onclick="copyEvent('copy')">Copy</button>
         <p id="copied" style="display: none;">copied!</p>
+        <div class="footer">
+            <a href="https://github.com/khanhmuy"><img src="https://khanhmuy.github.io/assets/github.svg" alt="github" class="social"></a>
+            <a href="https://twitter.com/hmuy0608"><img src="https://khanhmuy.github.io/assets/twitter.svg" alt="twitter" class="social"></a>
+        </div>
     </body>
 
     <script>
