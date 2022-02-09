@@ -1,273 +1,60 @@
 {
   "path" : "emotes",
-  "name" : "hmuy's emotes",
   "emotes" : [
     {
-      "name" : "woeisfruhh",
-      "type" : ".png"
-    },
-    {
-      "name" : "fr12pm",
-      "type" : ".png"
-    },
-    {
-      "name" : "frbounce",
-      "type" : ".gif"
-    },
-    {
-      "name" : "FrSleepyBiden",
-      "type" : ".png"
-    },
-    {
-      "name" : "omegalul",
-      "type" : ".png"
+      "type" : ".gif",
+      "name" : "frtalkdemon"
     },
     {
       "type" : ".png",
-      "name" : "MenheraChibiOk"
+      "name" : "stfuhayden"
     },
     {
-      "type" : ".gif",
-      "name" : "MenheraPeek2"
+      "type" : ".png",
+      "name" : "AYAYABlush"
     },
     {
-      "name" : "checkra1n",
-      "type" : ".png"
-    },
-    {
-      "name" : "hugs",
-      "type" : ".png"
-    },
-    {
-      "name" : "FrNodEvenFaster",
-      "type" : ".gif"
-    },
-    {
-      "name" : "02blind",
+      "name" : "MenheraPoint",
       "type" : ".png"
     },
     {
       "type" : ".gif",
-      "name" : "think"
-    },
-    {
-      "type" : ".gif",
-      "name" : "congaparrot"
+      "name" : "02teehee"
     },
     {
       "type" : ".png",
-      "name" : "frscarecrow"
+      "name" : "FrCoalHD"
     },
     {
-      "name" : "ban_anime",
+      "name" : "peepoNo",
+      "type" : ".png"
+    },
+    {
+      "name" : "FrTransluscent",
+      "type" : ".png"
+    },
+    {
+      "name" : "FrDorito",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrFrance"
+    },
+    {
+      "name" : "MenheraPopcorn",
       "type" : ".gif"
     },
     {
-      "name" : "kannapat",
+      "name" : "pingedPong",
       "type" : ".png"
     },
     {
-      "type" : ".png",
-      "name" : "angryfaceid"
-    },
-    {
-      "type" : ".png",
-      "name" : "HOW"
-    },
-    {
-      "name" : "thonk",
+      "name" : "MenheraThatsRight",
       "type" : ".png"
     },
     {
-      "type" : ".png",
-      "name" : "think~1"
-    },
-    {
-      "type" : ".gif",
-      "name" : "slam"
-    },
-    {
-      "name" : "pat",
-      "type" : ".png"
-    },
-    {
-      "name" : "SadJerry",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraChibiLove",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraChibiFlower"
-    },
-    {
-      "name" : "MenheraGoodmorning",
-      "type" : ".png"
-    },
-    {
-      "name" : "frcyclops",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "huan"
-    },
-    {
-      "name" : "FrNerd",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "bigbrain"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraFuee"
-    },
-    {
-      "name" : "02headpat",
-      "type" : ".png"
-    },
-    {
-      "name" : "fruhh",
-      "type" : ".png"
-    },
-    {
-      "name" : "morshu",
-      "type" : ".gif"
-    },
-    {
-      "name" : "frhigh",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "MenheraChibiHurt"
-    },
-    {
-      "name" : "PogU",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "womm"
-    },
-    {
-      "name" : "FrPoggiesRight",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "thisisnothowitis"
-    },
-    {
-      "name" : "Fr3",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "MenheraChibiCry"
-    },
-    {
-      "name" : "Wazowski",
-      "type" : ".png"
-    },
-    {
-      "name" : "DogDancing",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraFull"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraIForgiveYou"
-    },
-    {
-      "type" : ".png",
-      "name" : "stable"
-    },
-    {
-      "type" : ".png",
-      "name" : "FrCoalTeeth"
-    },
-    {
-      "name" : "fail",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "timlaugh"
-    },
-    {
-      "type" : ".png",
-      "name" : "intjannoyed"
-    },
-    {
-      "name" : "FrWord",
-      "type" : ".png"
-    },
-    {
-      "name" : "Hug2",
-      "type" : ".png"
-    },
-    {
-      "name" : "steamboat",
-      "type" : ".png"
-    },
-    {
-      "name" : "02darling",
-      "type" : ".gif"
-    },
-    {
-      "name" : "MenheraChibiSpin",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "A_CheckPins_REH"
-    },
-    {
-      "name" : "aBearPolice",
-      "type" : ".gif"
-    },
-    {
-      "name" : "banhammer",
-      "type" : ".png"
-    },
-    {
-      "name" : "FrQuadMunch",
-      "type" : ".gif"
-    },
-    {
-      "name" : "02dab",
-      "type" : ".png"
-    },
-    {
-      "name" : "GuraA",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "fasterEyes"
-    },
-    {
-      "type" : ".gif",
-      "name" : "MenheraBam"
-    },
-    {
-      "name" : "FrImac",
-      "type" : ".png"
-    },
-    {
-      "name" : "02hype",
-      "type" : ".gif"
-    },
-    {
-      "name" : "nyanAAAAA",
+      "name" : "frpoggiesleft",
       "type" : ".gif"
     },
     {
@@ -275,327 +62,23 @@
       "type" : ".png"
     },
     {
-      "name" : "02gasm",
+      "name" : "MenheraShy3",
       "type" : ".png"
     },
     {
-      "name" : "MenheraEating",
+      "name" : "Hug",
       "type" : ".png"
     },
     {
-      "type" : ".png",
-      "name" : "frhighright"
-    },
-    {
-      "type" : ".png",
-      "name" : "FrDankCig"
-    },
-    {
-      "name" : "MenheraChibiGoodMorning",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "cri"
-    },
-    {
-      "type" : ".png",
-      "name" : "frpog1"
-    },
-    {
-      "name" : "02omegalul",
-      "type" : ".png"
-    },
-    {
-      "name" : "frball",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "rickapprove"
-    },
-    {
-      "type" : ".gif",
-      "name" : "aBearCry"
-    },
-    {
-      "name" : "FrStraw",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "pirate"
-    },
-    {
-      "type" : ".png",
-      "name" : "intjpray"
-    },
-    {
-      "name" : "frdisappointed",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "frhotcocoa"
-    },
-    {
-      "name" : "nfrkek",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "no"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraIloveyou"
-    },
-    {
-      "name" : "MenheraSalute",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraThink2",
-      "type" : ".png"
-    },
-    {
-      "name" : "pogchomp",
-      "type" : ".gif"
-    },
-    {
-      "name" : "MenheraHeart",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraBlush",
-      "type" : ".png"
-    },
-    {
-      "name" : "FrWoeIs",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraHeart4",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "frsus"
-    },
-    {
-      "name" : "blobdance2",
-      "type" : ".gif"
-    },
-    {
-      "name" : "really",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "MenheraCheer"
-    },
-    {
-      "name" : "MenheraShocked",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraConfused",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "AngryBob"
-    },
-    {
-      "type" : ".gif",
-      "name" : "FrTalk"
-    },
-    {
-      "name" : "MenheraSmile",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraChibiHeart",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraThumbsup2",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "frcry"
-    },
-    {
-      "name" : "pepeRules",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "no_u"
-    },
-    {
-      "name" : "MenheraPout2",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "lul"
-    },
-    {
-      "type" : ".png",
-      "name" : "FrPoggies"
-    },
-    {
-      "name" : "02smug",
-      "type" : ".png"
-    },
-    {
-      "name" : "Pensiveball",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "frmuchiesfront"
-    },
-    {
-      "name" : "frimposter",
-      "type" : ".png"
-    },
-    {
-      "name" : "catjam",
-      "type" : ".gif"
-    },
-    {
-      "name" : "Hug3",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "frsleeping"
-    },
-    {
-      "name" : "MenheraStare",
-      "type" : ".png"
-    },
-    {
-      "name" : "partnerstick",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "cry"
-    },
-    {
-      "name" : "MenheraWink",
-      "type" : ".png"
-    },
-    {
-      "name" : "frpoggies",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "frmask"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraSmile2"
-    },
-    {
-      "name" : "frpensivestache",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "frpetthepoggers"
-    },
-    {
-      "name" : "MenheraEhh",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "pepeDLS"
-    },
-    {
-      "name" : "you_tried",
-      "type" : ".gif"
-    },
-    {
-      "name" : "FrFr",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "TrollFront"
-    },
-    {
-      "name" : "peekdeeznutz",
-      "type" : ".png"
-    },
-    {
-      "name" : "elutrash",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraChibiHurt2",
-      "type" : ".gif"
-    },
-    {
-      "name" : "frtrump",
+      "name" : "aBearPolice",
       "type" : ".gif"
     },
     {
       "type" : ".gif",
-      "name" : "frsmh"
+      "name" : "KannaWave"
     },
     {
-      "name" : "bruhinside",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraLolipop",
-      "type" : ".png"
-    },
-    {
-      "name" : "feelsthinkingman",
-      "type" : ".png"
-    },
-    {
-      "name" : "CatNotLikeThis",
-      "type" : ".png"
-    },
-    {
-      "name" : "frkiller",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "ping"
-    },
-    {
-      "name" : "02teehee",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "02fail"
-    },
-    {
-      "name" : "MenheraPeek",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "laughclap"
-    },
-    {
-      "type" : ".png",
-      "name" : "CatCrying"
-    },
-    {
-      "name" : "Giggle",
+      "name" : "MenheraYeah",
       "type" : ".gif"
     },
     {
@@ -603,515 +86,43 @@
       "name" : "02superdab"
     },
     {
-      "name" : "HeadToTheFuckingWall",
+      "name" : "WavingHand",
       "type" : ".gif"
     },
     {
-      "name" : "this",
+      "name" : "FrImac",
       "type" : ".png"
     },
     {
-      "type" : ".png",
-      "name" : "02susp"
-    },
-    {
-      "type" : ".gif",
-      "name" : "MenheraConfetti"
-    },
-    {
-      "name" : "stfuketo",
+      "name" : "PogYou",
       "type" : ".png"
     },
     {
-      "name" : "hug4",
-      "type" : ".png"
-    },
-    {
-      "name" : "FrCatgirl",
-      "type" : ".png"
-    },
-    {
-      "name" : "frstubble",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraBaka",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraFacepillow"
-    },
-    {
-      "name" : "frnodsanta",
+      "name" : "SpinThinking",
       "type" : ".gif"
     },
     {
-      "name" : "maybe",
-      "type" : ".gif"
-    },
-    {
-      "name" : "frcop",
+      "name" : "MenheraThumbsUp",
       "type" : ".png"
     },
     {
-      "name" : "MenheraHuh2",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "2234_nitro"
-    },
-    {
-      "type" : ".png",
-      "name" : "delet"
-    },
-    {
-      "name" : "frpirate",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "intjspaz"
-    },
-    {
-      "type" : ".png",
-      "name" : "kek"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraChips"
-    },
-    {
-      "name" : "FrSanta",
-      "type" : ".png"
-    },
-    {
-      "name" : "EZ",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraConfused4",
+      "name" : "02headpat",
       "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "MenheraForgiveMe"
-    },
-    {
-      "name" : "panik",
-      "type" : ".png"
-    },
-    {
-      "name" : "frangry",
-      "type" : ".png"
+      "name" : "frblue"
     },
     {
       "type" : ".png",
-      "name" : "frteeth"
-    },
-    {
-      "name" : "uhhsweat",
-      "type" : ".png"
-    },
-    {
-      "name" : "why",
-      "type" : ".gif"
-    },
-    {
-      "name" : "02yes",
-      "type" : ".png"
-    },
-    {
-      "name" : "whatcanisay",
-      "type" : ".png"
+      "name" : "frquadclops"
     },
     {
       "type" : ".png",
-      "name" : "npeek"
+      "name" : "MenheraThumbsUp4"
     },
     {
-      "name" : "MenheraSick",
-      "type" : ".png"
-    },
-    {
-      "name" : "thisfuckingcat",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "FrLightBlue"
-    },
-    {
-      "name" : "FrImplode",
-      "type" : ".png"
-    },
-    {
-      "name" : "piratethonk",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "02shrug"
-    },
-    {
-      "type" : ".png",
-      "name" : "FrGlasses"
-    },
-    {
-      "name" : "MenheraChibiPlease",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "trol"
-    },
-    {
-      "name" : "sus",
-      "type" : ".png"
-    },
-    {
-      "name" : "FrHug",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "aBearGlasses"
-    },
-    {
-      "name" : "frcocoa",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraChibiSnowball",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "FrBonk"
-    },
-    {
-      "type" : ".gif",
-      "name" : "MenheraChibiWiggle"
-    },
-    {
-      "name" : "SpamPressFToPayRespects",
-      "type" : ".gif"
-    },
-    {
-      "name" : "MenheraGood",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "FrCoalPensive"
-    },
-    {
-      "name" : "frvibecheck",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraShy3"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraDamn"
-    },
-    {
-      "name" : "WeSmart",
-      "type" : ".png"
-    },
-    {
-      "name" : "FrPetThePoggies",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "hairforceone"
-    },
-    {
-      "name" : "Pircay",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "deadaf"
-    },
-    {
-      "name" : "peepoLove",
-      "type" : ".png"
-    },
-    {
-      "name" : "02patgif",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "MenheraRoll"
-    },
-    {
-      "name" : "pepenou",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "MenheraPat"
-    },
-    {
-      "name" : "02think",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "frcool"
-    },
-    {
-      "type" : ".png",
-      "name" : "trolldisappointed"
-    },
-    {
-      "name" : "95",
-      "type" : ".png"
-    },
-    {
-      "name" : "SopPeek",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraThumbsup3"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraSleepy"
-    },
-    {
-      "name" : "stfuhayden",
-      "type" : ".png"
-    },
-    {
-      "name" : "frpetcoal",
-      "type" : ".gif"
-    },
-    {
-      "name" : "linux",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "MenheraFite"
-    },
-    {
-      "type" : ".gif",
-      "name" : "MenheraLove"
-    },
-    {
-      "type" : ".gif",
-      "name" : "aBearFire"
-    },
-    {
-      "name" : "MenheraTeehee",
-      "type" : ".png"
-    },
-    {
-      "name" : "FrCalum",
-      "type" : ".png"
-    },
-    {
-      "name" : "half",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "pepeFBI"
-    },
-    {
-      "type" : ".png",
-      "name" : "02sad"
-    },
-    {
-      "type" : ".png",
-      "name" : "FrBuilder"
-    },
-    {
-      "name" : "FrMagik",
-      "type" : ".png"
-    },
-    {
-      "name" : "frgirl",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "frtriclops"
-    },
-    {
-      "name" : "downvote",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "frblink"
-    },
-    {
-      "type" : ".gif",
-      "name" : "02pogslide"
-    },
-    {
-      "name" : "02smileyess",
-      "type" : ".gif"
-    },
-    {
-      "name" : "MenheraSpin",
-      "type" : ".gif"
-    },
-    {
-      "name" : "frcoal",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "frheart"
-    },
-    {
-      "name" : "02bored",
-      "type" : ".png"
-    },
-    {
-      "name" : "yes",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraChibiThankYou",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "FrWoah"
-    },
-    {
-      "name" : "anger",
-      "type" : ".png"
-    },
-    {
-      "name" : "aah",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "nthishowitis"
-    },
-    {
-      "name" : "02uwu",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "wtf"
-    },
-    {
-      "type" : ".png",
-      "name" : "scared"
-    },
-    {
-      "name" : "MenheraDevil",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraFridge"
-    },
-    {
-      "name" : "MenheraYessir",
-      "type" : ".png"
-    },
-    {
-      "name" : "sleep",
-      "type" : ".gif"
-    },
-    {
-      "name" : "Noice",
-      "type" : ".png"
-    },
-    {
-      "name" : "frmonch",
-      "type" : ".gif"
-    },
-    {
-      "name" : "FrAnime2",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraThink"
-    },
-    {
-      "name" : "FrConvertible",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "frsleepping"
-    },
-    {
-      "name" : "FrForehead",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraGoodnight"
-    },
-    {
-      "type" : ".gif",
-      "name" : "MenheraOra"
-    },
-    {
-      "name" : "MenheraCry",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "death"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraHuh"
-    },
-    {
-      "name" : "MenheraNo~1",
-      "type" : ".png"
-    },
-    {
-      "name" : "LLyay",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "frthink"
-    },
-    {
-      "name" : "MenheraPoint",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraChibiCry2",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "banhammer~1"
-    },
-    {
-      "type" : ".png",
-      "name" : "u0trash"
-    },
-    {
-      "type" : ".png",
-      "name" : "FrTheosRight"
-    },
-    {
-      "name" : "frrainbow",
+      "name" : "02sleep",
       "type" : ".gif"
     },
     {
@@ -1119,111 +130,391 @@
       "name" : "FrPoo"
     },
     {
-      "name" : "FrMunchies",
-      "type" : ".gif"
-    },
-    {
-      "name" : "uhh",
+      "name" : "PensiveBell",
       "type" : ".png"
     },
     {
-      "type" : ".gif",
-      "name" : "MenheraNo"
-    },
-    {
-      "type" : ".gif",
-      "name" : "blobdance"
-    },
-    {
-      "name" : "shut",
+      "name" : "frtransparent",
       "type" : ".png"
     },
     {
-      "name" : "MenheraShy",
+      "name" : "HappyJerry",
       "type" : ".png"
-    },
-    {
-      "name" : "WavingHand",
-      "type" : ".gif"
     },
     {
       "type" : ".png",
-      "name" : "MenheraSugoi"
+      "name" : "frstache"
+    },
+    {
+      "name" : "AngryBob",
+      "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "FrPurple"
+      "name" : "SopPeek"
     },
     {
-      "name" : "salute",
+      "type" : ".png",
+      "name" : "FrLightBlue"
+    },
+    {
+      "type" : ".png",
+      "name" : "frangry"
+    },
+    {
+      "name" : "frthanos",
+      "type" : ".png"
+    },
+    {
+      "name" : "peepoLove",
       "type" : ".png"
     },
     {
       "type" : ".gif",
-      "name" : "MenheraDance"
-    },
-    {
-      "name" : "woeisuhh",
-      "type" : ".png"
+      "name" : "02darling"
     },
     {
       "name" : "FrRoadman",
       "type" : ".png"
     },
     {
-      "type" : ".png",
-      "name" : "FrWhite"
+      "type" : ".gif",
+      "name" : "FrPoggiesRight"
     },
     {
-      "name" : "frchoccy",
+      "name" : "aBearGlasses",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "VeryNice"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraFuee"
+    },
+    {
+      "name" : "aBearCry",
+      "type" : ".gif"
+    },
+    {
+      "name" : "pats",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "frhighright"
+    },
+    {
+      "type" : ".png",
+      "name" : "frdistorted"
+    },
+    {
+      "name" : "yay",
       "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "Hug"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraStare2"
-    },
-    {
-      "name" : "kekw",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraPocky"
     },
     {
       "type" : ".gif",
-      "name" : "MenheraChibiPeek"
+      "name" : "IdkAndIdc"
     },
     {
-      "name" : "HypeHugs",
-      "type" : ".gif"
-    },
-    {
-      "name" : "FrHD",
+      "name" : "frsus",
       "type" : ".png"
     },
     {
-      "name" : "frshark",
+      "name" : "pirate",
+      "type" : ".png"
+    },
+    {
+      "name" : "what",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "kannapat"
+    },
+    {
+      "name" : "frqueries",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraFridge",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "MenheraConfetti"
+    },
+    {
+      "name" : "frcocoa",
+      "type" : ".png"
+    },
+    {
+      "name" : "02boba",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "cattrue"
+    },
+    {
+      "name" : "yes",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "MenheraZzz"
+    },
+    {
+      "name" : "pepeFBI",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrPurple"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrGlasses"
+    },
+    {
+      "name" : "frchew",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "MenheraConfused2"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraChips"
+    },
+    {
+      "type" : ".gif",
+      "name" : "MenheraChibiFastSpin"
+    },
+    {
+      "name" : "HOW",
+      "type" : ".png"
+    },
+    {
+      "name" : "200IQ",
+      "type" : ".gif"
+    },
+    {
+      "name" : "Hug2",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "frsleepping"
+    },
+    {
+      "name" : "frsmh",
       "type" : ".gif"
     },
     {
       "type" : ".png",
-      "name" : "VanillaPray"
+      "name" : "thonkSweat"
+    },
+    {
+      "name" : "Giggle",
+      "type" : ".gif"
+    },
+    {
+      "name" : "trolllaugh",
+      "type" : ".png"
+    },
+    {
+      "name" : "FrCoalPensive",
+      "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "nfrwoe"
+      "name" : "FrStraw"
+    },
+    {
+      "type" : ".gif",
+      "name" : "discordloading"
+    },
+    {
+      "type" : ".gif",
+      "name" : "eyesShake"
     },
     {
       "type" : ".png",
-      "name" : "amen"
+      "name" : "FrogAww"
     },
     {
-      "name" : "frpoint",
+      "name" : "frlevitatingsmh",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "fright"
+    },
+    {
+      "name" : "FrGradient",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "woeisuhh"
+    },
+    {
+      "name" : "frcatharsis",
+      "type" : ".png"
+    },
+    {
+      "name" : "frimposter",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraThink",
+      "type" : ".png"
+    },
+    {
+      "name" : "FrMagik",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraChibiHeart",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "bruhinside"
+    },
+    {
+      "name" : "frhotcocoa",
+      "type" : ".png"
+    },
+    {
+      "name" : "pepeRules",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "cry"
+    },
+    {
+      "name" : "retweet",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraWriting"
+    },
+    {
+      "name" : "woeisfruhh",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "nfrkek"
+    },
+    {
+      "type" : ".gif",
+      "name" : "frthinkspin"
+    },
+    {
+      "name" : "MenheraFuee2",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "peepoPat"
+    },
+    {
+      "type" : ".png",
+      "name" : "think2"
+    },
+    {
+      "type" : ".png",
+      "name" : "scared"
+    },
+    {
+      "name" : "thonk",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraCry"
+    },
+    {
+      "name" : "ping",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraStare",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraChibiCry2",
+      "type" : ".gif"
+    },
+    {
+      "name" : "woeisme",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "cydia"
+    },
+    {
+      "name" : "fail",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraChibiSalute",
+      "type" : ".png"
+    },
+    {
+      "name" : "thatsniceandallbutwhotfasked",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraGoodnight"
+    },
+    {
+      "name" : "MenheraNod",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "why"
+    },
+    {
+      "type" : ".gif",
+      "name" : "MenheraChibiWiggle"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraAngy"
+    },
+    {
+      "type" : ".gif",
+      "name" : "MenheraJamming"
+    },
+    {
+      "name" : "FrWord",
+      "type" : ".png"
+    },
+    {
+      "name" : "FrFr",
+      "type" : ".png"
+    },
+    {
+      "name" : "frvibecheck",
+      "type" : ".gif"
+    },
+    {
+      "name" : "MenheraChibiRun",
+      "type" : ".gif"
+    },
+    {
+      "name" : "95",
       "type" : ".png"
     },
     {
@@ -1232,351 +523,7 @@
     },
     {
       "type" : ".gif",
-      "name" : "FrBounceFaster"
-    },
-    {
-      "name" : "FrStreched",
-      "type" : ".png"
-    },
-    {
-      "name" : "FrW",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "MenheraHeartstruck"
-    },
-    {
-      "type" : ".png",
-      "name" : "DeadChat"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraPervert"
-    },
-    {
-      "name" : "FrSleeper",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "frcursedpruple"
-    },
-    {
-      "type" : ".png",
-      "name" : "frtranslucent"
-    },
-    {
-      "name" : "02darlingwtf",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraJam",
-      "type" : ".gif"
-    },
-    {
-      "name" : "angery",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "MenheraCheers"
-    },
-    {
-      "name" : "MenheraFuee2",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "thishowitis"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraMusic"
-    },
-    {
-      "type" : ".gif",
-      "name" : "respring"
-    },
-    {
-      "type" : ".gif",
-      "name" : "frthinkspin"
-    },
-    {
-      "name" : "FrGradient",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraBunny",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraWriting",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "FrGhost"
-    },
-    {
-      "name" : "frchew",
-      "type" : ".gif"
-    },
-    {
-      "name" : "frlevitatingsmh",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "pensive_cowbread"
-    },
-    {
-      "name" : "FrFlower",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "frtransparent"
-    },
-    {
-      "type" : ".png",
-      "name" : "flosh"
-    },
-    {
-      "type" : ".png",
-      "name" : "angry"
-    },
-    {
-      "name" : "MenheraPopcorn",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "hehe"
-    },
-    {
-      "name" : "cydia",
-      "type" : ".png"
-    },
-    {
-      "name" : "discordloading",
-      "type" : ".gif"
-    },
-    {
-      "name" : "tro",
-      "type" : ".png"
-    },
-    {
-      "name" : "pensivebread",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "yay"
-    },
-    {
-      "type" : ".png",
-      "name" : "frblue"
-    },
-    {
-      "name" : "AYAYABlush",
-      "type" : ".png"
-    },
-    {
-      "name" : "wholesome",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraHeart2",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "FrTrump"
-    },
-    {
-      "name" : "FrMonarch",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "frhat"
-    },
-    {
-      "name" : "frdistorted",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraThatsRight",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "ThonkDifferent"
-    },
-    {
-      "type" : ".png",
-      "name" : "frninja"
-    },
-    {
-      "type" : ".gif",
-      "name" : "woe"
-    },
-    {
-      "type" : ".png",
-      "name" : "woeistroll"
-    },
-    {
-      "name" : "MenheraNya",
-      "type" : ".png"
-    },
-    {
-      "name" : "frnod",
-      "type" : ".gif"
-    },
-    {
-      "name" : "aBearConga",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "MenheraChibiRoll"
-    },
-    {
-      "name" : "frnegative",
-      "type" : ".png"
-    },
-    {
-      "name" : "FrFrance",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "02Salute"
-    },
-    {
-      "type" : ".png",
-      "name" : "FrTheosLeft"
-    },
-    {
-      "name" : "frqueries",
-      "type" : ".png"
-    },
-    {
-      "name" : "cozy",
-      "type" : ".png"
-    },
-    {
-      "name" : "noeta",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "frpog"
-    },
-    {
-      "type" : ".gif",
       "name" : "trolla"
-    },
-    {
-      "name" : "frtheos",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "frpoggiesdemon"
-    },
-    {
-      "name" : "MenheraZzz",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "bruh"
-    },
-    {
-      "name" : "FrS21Ultra",
-      "type" : ".png"
-    },
-    {
-      "name" : "intjyouknowhowitis",
-      "type" : ".png"
-    },
-    {
-      "name" : "02Hmm",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraYes",
-      "type" : ".png"
-    },
-    {
-      "name" : "frblush",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "HappyJerry"
-    },
-    {
-      "type" : ".png",
-      "name" : "amgery"
-    },
-    {
-      "type" : ".png",
-      "name" : "what"
-    },
-    {
-      "type" : ".png",
-      "name" : "rip"
-    },
-    {
-      "name" : "holyFuck",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraStudy",
-      "type" : ".png"
-    },
-    {
-      "name" : "FrNodFaster",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "IdkAndIdc"
-    },
-    {
-      "name" : "200IQ",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "PensiveBell"
-    },
-    {
-      "name" : "FrRosie",
-      "type" : ".png"
-    },
-    {
-      "name" : "frrtx",
-      "type" : ".png"
-    },
-    {
-      "name" : "02think (2)",
-      "type" : ".gif"
-    },
-    {
-      "name" : "dontcare",
-      "type" : ".gif"
-    },
-    {
-      "name" : "MenheraSad",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "duplicate"
     },
     {
       "type" : ".gif",
@@ -1584,430 +531,234 @@
     },
     {
       "type" : ".png",
-      "name" : "franimeeyes"
-    },
-    {
-      "type" : ".png",
-      "name" : "substrate"
-    },
-    {
-      "name" : "JoeWhoAsked",
-      "type" : ".gif"
+      "name" : "FrStreched"
     },
     {
       "type" : ".gif",
-      "name" : "PepeTOS"
+      "name" : "FrQuadMunch"
     },
     {
-      "type" : ".gif",
-      "name" : "frpet"
-    },
-    {
-      "name" : "PixieHype",
+      "name" : "frteeth",
       "type" : ".png"
     },
     {
-      "name" : "FrCoalPet",
-      "type" : ".gif"
-    },
-    {
-      "name" : "frnodfast",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraSalute2"
-    },
-    {
-      "name" : "frangryping",
+      "name" : "kek",
       "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "pingedPong"
-    },
-    {
-      "type" : ".png",
-      "name" : "FrPride"
-    },
-    {
-      "name" : "ElonLOL",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraStare3"
-    },
-    {
-      "type" : ".png",
-      "name" : "nfr"
-    },
-    {
-      "name" : "dead",
-      "type" : ".png"
-    },
-    {
-      "name" : "frthanos",
-      "type" : ".png"
-    },
-    {
-      "name" : "FrBruh",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "FrShrek"
-    },
-    {
-      "name" : "timgrin",
-      "type" : ".png"
-    },
-    {
-      "name" : "intjangry",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraAngy"
-    },
-    {
-      "name" : "FrDarkBlue",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "frcatharsis"
-    },
-    {
-      "type" : ".png",
-      "name" : "woerisfr"
-    },
-    {
-      "type" : ".png",
-      "name" : "frpensive"
-    },
-    {
-      "name" : "frthug",
-      "type" : ".png"
-    },
-    {
-      "name" : "Prius2",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "trolres"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraWeird"
-    },
-    {
-      "type" : ".gif",
-      "name" : "MenheraDance2"
-    },
-    {
-      "name" : "kannapat2",
-      "type" : ".png"
-    },
-    {
-      "name" : "FrTransluscent",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraRamen",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "02boba"
-    },
-    {
-      "name" : "frmad",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "frbiden"
-    },
-    {
-      "name" : "MenheraSorry",
-      "type" : ".png"
-    },
-    {
-      "name" : "FrFries",
-      "type" : ".png"
-    },
-    {
-      "name" : "pats",
-      "type" : ".gif"
-    },
-    {
-      "name" : "Angerycry",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraWindow"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraOk"
-    },
-    {
-      "type" : ".png",
-      "name" : "frbook"
-    },
-    {
-      "name" : "MenheraPout",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "pls"
-    },
-    {
-      "type" : ".png",
-      "name" : "smugu"
-    },
-    {
-      "type" : ".png",
-      "name" : "frstonks"
-    },
-    {
-      "name" : "fright",
-      "type" : ".png"
-    },
-    {
-      "name" : "niarf",
-      "type" : ".png"
-    },
-    {
-      "name" : "pog",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "intjandwhataboutit"
-    },
-    {
-      "name" : "MenheraConfused2",
-      "type" : ".gif"
-    },
-    {
-      "name" : "CatgirlHyper",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "MenheraChibiRun"
-    },
-    {
-      "name" : "02notlikethis",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "cattrue"
-    },
-    {
-      "name" : "trolllaugh",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraPout3",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "wois"
-    },
-    {
-      "name" : "plugwalk",
-      "type" : ".gif"
-    },
-    {
-      "name" : "aBearWalk",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "discordtyping"
-    },
-    {
-      "name" : "FrRed",
-      "type" : ".png"
-    },
-    {
-      "name" : "FrogAww",
-      "type" : ".png"
-    },
-    {
-      "name" : "FrSpongebob",
-      "type" : ".png"
-    },
-    {
-      "name" : "peepoPat",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraHeart3"
-    },
-    {
-      "type" : ".png",
-      "name" : "thonkSweat"
-    },
-    {
-      "name" : "MenheraGoodnight2",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraChibiFastSpin",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "VeryNice"
-    },
-    {
-      "name" : "tr",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "slap"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraGhost"
-    },
-    {
-      "type" : ".gif",
-      "name" : "YikesTM"
-    },
-    {
-      "name" : "frtalkdemon",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "frcoalnod"
-    },
-    {
-      "type" : ".png",
-      "name" : "frstache"
-    },
-    {
-      "name" : "MenheraSalute3",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "FrBoris"
-    },
-    {
-      "name" : "MenheraBed",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "eyes_sus"
-    },
-    {
-      "name" : "MenheraWave",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "02wave"
-    },
-    {
-      "name" : "FrFortuneCookie",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraImissyou"
-    },
-    {
-      "name" : "peepoPing",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "HandsClapping"
-    },
-    {
-      "type" : ".png",
-      "name" : "feelsweirdman"
-    },
-    {
-      "name" : "PogYou",
-      "type" : ".png"
-    },
-    {
-      "name" : "frquadclops",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraRollheart",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "FrSantaCocoa"
-    },
-    {
-      "name" : "FrAnime",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraShy2",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "MenheraInterested"
-    },
-    {
-      "name" : "abooz",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraEhehe",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraChibiILY",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "ngu"
-    },
-    {
-      "type" : ".png",
-      "name" : "Pogey"
-    },
-    {
-      "type" : ".gif",
-      "name" : "02dead"
-    },
-    {
-      "name" : "MenheraLove2",
-      "type" : ".gif"
     },
     {
       "name" : "frping",
       "type" : ".png"
     },
     {
-      "name" : "MenheraJamming",
-      "type" : ".gif"
+      "type" : ".gif",
+      "name" : "respring"
+    },
+    {
+      "type" : ".gif",
+      "name" : "JoeWhoAsked"
+    },
+    {
+      "name" : "FrPride",
+      "type" : ".png"
+    },
+    {
+      "name" : "trolres",
+      "type" : ".png"
+    },
+    {
+      "name" : "FrAnime",
+      "type" : ".png"
+    },
+    {
+      "name" : "steamboat",
+      "type" : ".png"
+    },
+    {
+      "name" : "FrS21Ultra",
+      "type" : ".png"
+    },
+    {
+      "name" : "frmuchiesfront",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "piratethonk"
     },
     {
       "name" : "MenheraConfused3",
+      "type" : ".png"
+    },
+    {
+      "name" : "Pensiveball",
+      "type" : ".png"
+    },
+    {
+      "name" : "02Salute",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraChibiOk"
+    },
+    {
+      "name" : "wobble",
+      "type" : ".gif"
+    },
+    {
+      "name" : "uhhsweat",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "EZ"
+    },
+    {
+      "name" : "MenheraOk",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraStudy"
+    },
+    {
+      "type" : ".png",
+      "name" : "Prius2"
+    },
+    {
+      "name" : "feelsweirdman",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraSmile2",
+      "type" : ".png"
+    },
+    {
+      "name" : "FrTalk",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "bceStare2"
+    },
+    {
+      "name" : "frcry",
+      "type" : ".png"
+    },
+    {
+      "name" : "intjpray",
+      "type" : ".png"
+    },
+    {
+      "name" : "02love",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "fr12pm"
+    },
+    {
+      "name" : "this",
+      "type" : ".png"
+    },
+    {
+      "name" : "tro",
+      "type" : ".png"
+    },
+    {
+      "name" : "KannaRise",
+      "type" : ".png"
+    },
+    {
+      "name" : "Wazowski",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraSleepy",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraIloveyou"
+    },
+    {
+      "name" : "MenheraDamn",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "womm"
+    },
+    {
+      "name" : "FrHug",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraNyan2"
+    },
+    {
+      "name" : "MenheraMusic",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraPout2",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraChibiFlower",
+      "type" : ".png"
+    },
+    {
+      "name" : "SpamPressFToPayRespects",
+      "type" : ".gif"
+    },
+    {
+      "name" : "pls",
+      "type" : ".png"
+    },
+    {
+      "name" : "frcoalnod",
+      "type" : ".gif"
+    },
+    {
+      "name" : "catjam",
+      "type" : ".gif"
+    },
+    {
+      "name" : "substrate",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraGoodmorning",
+      "type" : ".png"
+    },
+    {
+      "name" : "FrDankCig",
+      "type" : ".png"
+    },
+    {
+      "name" : "FrPoggies",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrCoalTeeth"
+    },
+    {
+      "type" : ".png",
+      "name" : "frgirl"
+    },
+    {
+      "name" : "MenheraChibiHurt",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "downvote"
+    },
+    {
+      "name" : "MenheraChibiLove",
       "type" : ".png"
     },
     {
@@ -2015,127 +766,195 @@
       "type" : ".gif"
     },
     {
-      "name" : "MenheraItsOk",
+      "type" : ".gif",
+      "name" : "death"
+    },
+    {
+      "name" : "FrForehead",
       "type" : ".png"
     },
     {
-      "type" : ".gif",
-      "name" : "MenheraNod"
+      "type" : ".png",
+      "name" : "MenheraGhost"
     },
     {
       "type" : ".png",
-      "name" : "hayday"
+      "name" : "02omegalul"
+    },
+    {
+      "name" : "02dead",
+      "type" : ".gif"
+    },
+    {
+      "name" : "frheart",
+      "type" : ".png"
+    },
+    {
+      "name" : "frshark",
+      "type" : ".gif"
+    },
+    {
+      "name" : "amgery",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "sus"
+    },
+    {
+      "name" : "frhigh",
+      "type" : ".png"
+    },
+    {
+      "name" : "FrCalum",
+      "type" : ".png"
+    },
+    {
+      "name" : "frrainbow",
+      "type" : ".gif"
+    },
+    {
+      "name" : "MenheraGood",
+      "type" : ".png"
+    },
+    {
+      "name" : "really",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraConfused4"
+    },
+    {
+      "name" : "frbounce",
+      "type" : ".gif"
+    },
+    {
+      "name" : "Hug3",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraShy",
+      "type" : ".png"
+    },
+    {
+      "name" : "frblush",
+      "type" : ".png"
+    },
+    {
+      "name" : "nfr",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraEhh",
+      "type" : ".png"
     },
     {
       "type" : ".png",
       "name" : "checkm8"
     },
     {
-      "type" : ".png",
-      "name" : "MenheraChibiSalute"
+      "name" : "CatgirlHyper",
+      "type" : ".gif"
     },
     {
-      "name" : "thatsniceandallbutwhotfasked",
+      "name" : "FrTheosRight",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraImissyou"
+    },
+    {
+      "name" : "congaparrot",
+      "type" : ".gif"
+    },
+    {
+      "name" : "think",
+      "type" : ".gif"
+    },
+    {
+      "name" : "morshu",
       "type" : ".gif"
     },
     {
       "type" : ".gif",
-      "name" : "aBongo"
+      "name" : "frmonch"
     },
     {
-      "name" : "KannaRise",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraNyan"
-    },
-    {
-      "name" : "MenheraChibiRoll2",
-      "type" : ".gif"
-    },
-    {
-      "name" : "frblind",
-      "type" : ".png"
-    },
-    {
-      "name" : "fat",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraThumbsUp4"
-    },
-    {
-      "name" : "FrCoalHD",
-      "type" : ".png"
-    },
-    {
-      "name" : "tim",
-      "type" : ".png"
-    },
-    {
-      "name" : "MenheraChibiDance",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "troll"
-    },
-    {
-      "name" : "frpoggiesleft",
-      "type" : ".gif"
-    },
-    {
-      "name" : "MenheraHungry",
-      "type" : ".png"
-    },
-    {
-      "name" : "peepoYes",
-      "type" : ".png"
-    },
-    {
-      "name" : "floshed",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraKiss"
-    },
-    {
-      "type" : ".png",
-      "name" : "MenheraNyan2"
-    },
-    {
-      "name" : "amogus",
-      "type" : ".png"
-    },
-    {
-      "name" : "frtired",
-      "type" : ".png"
-    },
-    {
-      "name" : "bceStare2",
-      "type" : ".png"
-    },
-    {
-      "name" : "FrDorito",
-      "type" : ".png"
-    },
-    {
-      "name" : "frpale",
+      "name" : "noeta",
       "type" : ".png"
     },
     {
       "type" : ".gif",
-      "name" : "wobble"
+      "name" : "sleep"
     },
     {
-      "name" : "fr",
+      "name" : "frmad",
+      "type" : ".gif"
+    },
+    {
+      "name" : "02think",
       "type" : ".png"
     },
     {
-      "name" : "VERYCONCERNED",
+      "type" : ".png",
+      "name" : "MenheraGoodnight2"
+    },
+    {
+      "type" : ".png",
+      "name" : "frcool"
+    },
+    {
+      "name" : "woe",
+      "type" : ".gif"
+    },
+    {
+      "name" : "FrTrump",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "frtriclops"
+    },
+    {
+      "type" : ".gif",
+      "name" : "pepenou"
+    },
+    {
+      "type" : ".png",
+      "name" : "intjyouknowhowitis"
+    },
+    {
+      "type" : ".png",
+      "name" : "peek"
+    },
+    {
+      "type" : ".png",
+      "name" : "frdisappointed"
+    },
+    {
+      "type" : ".png",
+      "name" : "aah"
+    },
+    {
+      "type" : ".gif",
+      "name" : "frnod"
+    },
+    {
+      "name" : "FrBuilder",
+      "type" : ".png"
+    },
+    {
+      "name" : "SadJerry",
+      "type" : ".png"
+    },
+    {
+      "name" : "delet",
+      "type" : ".png"
+    },
+    {
+      "name" : "frstubble",
       "type" : ".png"
     },
     {
@@ -2144,50 +963,1014 @@
     },
     {
       "type" : ".gif",
-      "name" : "02sleep"
+      "name" : "MenheraLove"
     },
     {
       "type" : ".png",
-      "name" : "02love"
+      "name" : "banhammer~1"
     },
     {
-      "name" : "MenheraYeah",
+      "name" : "MenheraBunny",
+      "type" : ".png"
+    },
+    {
+      "name" : "fruhh",
+      "type" : ".png"
+    },
+    {
+      "name" : "nyanAAAAA",
       "type" : ".gif"
     },
     {
-      "name" : "SpinThinking",
+      "type" : ".png",
+      "name" : "02sad"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraPeek"
+    },
+    {
+      "name" : "frpetthepoggers",
       "type" : ".gif"
     },
     {
-      "name" : "MenheraCold",
+      "type" : ".png",
+      "name" : "MenheraHeart4"
+    },
+    {
+      "name" : "ban_anime",
       "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraForgiveMe"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraItsOk"
+    },
+    {
+      "type" : ".png",
+      "name" : "02dab"
+    },
+    {
+      "type" : ".png",
+      "name" : "abooz"
+    },
+    {
+      "type" : ".gif",
+      "name" : "slap"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrShrek"
+    },
+    {
+      "type" : ".gif",
+      "name" : "fat"
+    },
+    {
+      "name" : "FrSanta",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "MenheraChibiHurt2"
+    },
+    {
+      "name" : "deadaf",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ThonkDifferent",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "MenheraRollheart"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrW"
+    },
+    {
+      "type" : ".gif",
+      "name" : "LLyay"
+    },
+    {
+      "name" : "MenheraEhehe",
+      "type" : ".png"
+    },
+    {
+      "name" : "hehe",
+      "type" : ".png"
+    },
+    {
+      "name" : "02hype",
+      "type" : ".gif"
+    },
+    {
+      "name" : "HypeHugs",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "MenheraCheer"
+    },
+    {
+      "type" : ".png",
+      "name" : "02Hmm"
+    },
+    {
+      "name" : "franimeeyes",
+      "type" : ".png"
+    },
+    {
+      "name" : "02think (2)",
+      "type" : ".gif"
+    },
+    {
+      "name" : "MenheraChibiCry",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "frangryping"
+    },
+    {
+      "type" : ".png",
+      "name" : "angry"
+    },
+    {
+      "name" : "MenheraChibiILY",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "MenheraNo"
+    },
+    {
+      "type" : ".png",
+      "name" : "floshed"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraThink2"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrWoah"
+    },
+    {
+      "type" : ".gif",
+      "name" : "dontcare"
+    },
+    {
+      "type" : ".png",
+      "name" : "frtheos"
+    },
+    {
+      "name" : "MenheraKiss",
+      "type" : ".png"
+    },
+    {
+      "name" : "DogDancing",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "HeadToTheFuckingWall"
+    },
+    {
+      "type" : ".png",
+      "name" : "bigbrain"
+    },
+    {
+      "type" : ".png",
+      "name" : "DeadChat"
+    },
+    {
+      "name" : "discordtyping",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "PogU"
+    },
+    {
+      "type" : ".gif",
+      "name" : "FrCoalPet"
+    },
+    {
+      "name" : "timlaugh",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "amogus"
+    },
+    {
+      "name" : "PepeTOS",
+      "type" : ".gif"
+    },
+    {
+      "name" : "MenheraNya",
+      "type" : ".png"
+    },
+    {
+      "name" : "hugs",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrFlower"
+    },
+    {
+      "name" : "02notlikethis",
+      "type" : ".gif"
+    },
+    {
+      "name" : "FrDarkBlue",
+      "type" : ".png"
+    },
+    {
+      "name" : "02smug",
+      "type" : ".png"
+    },
+    {
+      "name" : "no",
+      "type" : ".png"
+    },
+    {
+      "name" : "frthug",
+      "type" : ".png"
+    },
+    {
+      "name" : "frcoal",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "wois"
+    },
+    {
+      "type" : ".png",
+      "name" : "tim"
+    },
+    {
+      "name" : "MenheraSad",
+      "type" : ".png"
+    },
+    {
+      "name" : "FrOrange",
+      "type" : ".png"
+    },
+    {
+      "name" : "GuraA",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ngu",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "MenheraChibiDance"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraEating"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrTheosLeft"
+    },
+    {
+      "type" : ".gif",
+      "name" : "partnerstick"
+    },
+    {
+      "name" : "FrFortuneCookie",
+      "type" : ".png"
+    },
+    {
+      "name" : "nfrwoe",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "FrNodFaster"
+    },
+    {
+      "name" : "shut",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraLolipop"
+    },
+    {
+      "name" : "FrCatgirl",
+      "type" : ".png"
+    },
+    {
+      "name" : "frninja",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrImplode"
+    },
+    {
+      "name" : "FrSleepyBiden",
+      "type" : ".png"
+    },
+    {
+      "name" : "woerisfr",
+      "type" : ".png"
+    },
+    {
+      "name" : "stable",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraPocky"
+    },
+    {
+      "name" : "MenheraChibiPeek",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraSalute3"
+    },
+    {
+      "name" : "MenheraPout3",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "pensivebread"
+    },
+    {
+      "name" : "linux",
+      "type" : ".png"
+    },
+    {
+      "name" : "pogchomp",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraPout"
+    },
+    {
+      "name" : "wtf",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "feelsthinkingman"
+    },
+    {
+      "name" : "blobdance",
+      "type" : ".gif"
+    },
+    {
+      "name" : "FrBoris",
+      "type" : ".png"
+    },
+    {
+      "name" : "02smileyess",
+      "type" : ".gif"
+    },
+    {
+      "name" : "no_u",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrSleeper"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraBaka"
+    },
+    {
+      "name" : "MenheraChibiGoodMorning",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "elutrash"
+    },
+    {
+      "type" : ".png",
+      "name" : "pat"
+    },
+    {
+      "name" : "MenheraConfused",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "kannapat2"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrConvertible"
+    },
+    {
+      "name" : "frpensivestache",
+      "type" : ".png"
+    },
+    {
+      "name" : "YikesTM",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "frpet"
+    },
+    {
+      "name" : "wholesome",
+      "type" : ".png"
+    },
+    {
+      "name" : "02uwu",
+      "type" : ".png"
+    },
+    {
+      "name" : "VanillaPray",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraHeart",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraThumbsup3"
+    },
+    {
+      "name" : "MenheraShy2",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraStare2",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "frpoggiesdemon"
+    },
+    {
+      "type" : ".gif",
+      "name" : "MenheraChibiRoll"
+    },
+    {
+      "name" : "FrBounceFaster",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "smugu"
+    },
+    {
+      "type" : ".gif",
+      "name" : "frtrump"
+    },
+    {
+      "name" : "MenheraHuh",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "peekdeeznutz"
+    },
+    {
+      "type" : ".png",
+      "name" : "pog"
+    },
+    {
+      "type" : ".png",
+      "name" : "frrtx"
+    },
+    {
+      "name" : "MenheraPervert",
+      "type" : ".png"
+    },
+    {
+      "name" : "intjandwhataboutit",
+      "type" : ".gif"
+    },
+    {
+      "name" : "MenheraRamen",
+      "type" : ".gif"
+    },
+    {
+      "name" : "hayday",
+      "type" : ".png"
+    },
+    {
+      "name" : "frscarecrow",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraSmile",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraSick"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraHungry"
+    },
+    {
+      "type" : ".png",
+      "name" : "TrollFront"
+    },
+    {
+      "name" : "MenheraInterested",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "uhh"
+    },
+    {
+      "type" : ".png",
+      "name" : "CatNotLikeThis"
+    },
+    {
+      "type" : ".png",
+      "name" : "angryfaceid"
+    },
+    {
+      "type" : ".png",
+      "name" : "WeSmart"
+    },
+    {
+      "name" : "02shrug",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "trol"
+    },
+    {
+      "type" : ".gif",
+      "name" : "aBearWalk"
+    },
+    {
+      "type" : ".gif",
+      "name" : "MenheraBam"
+    },
+    {
+      "name" : "hairforceone",
+      "type" : ".png"
+    },
+    {
+      "name" : "frpoggies",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "MenheraChibiSpin"
+    },
+    {
+      "name" : "MenheraYessir",
+      "type" : ".png"
+    },
+    {
+      "name" : "frthink",
+      "type" : ".png"
+    },
+    {
+      "name" : "anger",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "MenheraChibiSnowball"
+    },
+    {
+      "name" : "frblink",
+      "type" : ".gif"
+    },
+    {
+      "name" : "frmask",
+      "type" : ".png"
+    },
+    {
+      "name" : "FrMunchies",
+      "type" : ".gif"
+    },
+    {
+      "name" : "Noice",
+      "type" : ".png"
+    },
+    {
+      "name" : "woeistroll",
+      "type" : ".png"
+    },
+    {
+      "name" : "frhat",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraFull",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraWave"
+    },
+    {
+      "name" : "flosh",
+      "type" : ".png"
+    },
+    {
+      "name" : "thishowitis",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "frnegative"
+    },
+    {
+      "type" : ".png",
+      "name" : "frpensive"
+    },
+    {
+      "name" : "FrNodEvenFaster",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "salute"
+    },
+    {
+      "name" : "FrRed",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraThumbsup2",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraWeird",
+      "type" : ".png"
+    },
+    {
+      "name" : "frgreen",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "02bored"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrRosie"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraBed"
+    },
+    {
+      "type" : ".png",
+      "name" : "02susp"
+    },
+    {
+      "type" : ".gif",
+      "name" : "2234_nitro"
+    },
+    {
+      "name" : "FrAnime2",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraOra",
+      "type" : ".gif"
+    },
+    {
+      "name" : "FrPetThePoggies",
+      "type" : ".gif"
+    },
+    {
+      "name" : "angery",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "frkiller"
+    },
+    {
+      "name" : "MenheraHeart3",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "amen"
+    },
+    {
+      "type" : ".gif",
+      "name" : "MenheraPat"
+    },
+    {
+      "type" : ".png",
+      "name" : "troll"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrTipsFedora"
+    },
+    {
+      "type" : ".png",
+      "name" : "peepoPing"
+    },
+    {
+      "name" : "02darlingwtf",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraSugoi",
+      "type" : ".png"
+    },
+    {
+      "name" : "02pogslide",
+      "type" : ".gif"
+    },
+    {
+      "name" : "02fail",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "frbook"
     },
     {
       "type" : ".png",
       "name" : "Luma"
     },
     {
-      "name" : "MenheraChibiPhoneSlam",
+      "name" : "peepoYes",
       "type" : ".png"
     },
     {
-      "name" : "FrAlien",
+      "name" : "MenheraChibiPlease",
+      "type" : ".png"
+    },
+    {
+      "name" : "thisfuckingcat",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "aBearConga"
+    },
+    {
+      "name" : "MenheraHuh2",
+      "type" : ".png"
+    },
+    {
+      "name" : "npeek",
       "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "FrJoker"
-    },
-    {
-      "name" : "MenheraChibiBells",
-      "type" : ".gif"
+      "name" : "think~1"
     },
     {
       "type" : ".png",
       "name" : "FrQueen"
     },
     {
-      "name" : "MenheraThumbsUp",
+      "name" : "frcursedpruple",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraJam",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraStare3"
+    },
+    {
+      "name" : "ElonLOL",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "HandsClapping"
+    },
+    {
+      "name" : "Pircay",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "PixieHype"
+    },
+    {
+      "name" : "MenheraHeartstruck",
+      "type" : ".gif"
+    },
+    {
+      "name" : "MenheraSorry",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "MenheraRoll"
+    },
+    {
+      "name" : "frstonks",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "checkra1n"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrHD"
+    },
+    {
+      "name" : "frball",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraDance",
+      "type" : ".gif"
+    },
+    {
+      "name" : "kekw",
+      "type" : ".png"
+    },
+    {
+      "name" : "FrGhost",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraSalute",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrFries"
+    },
+    {
+      "type" : ".gif",
+      "name" : "aBearFire"
+    },
+    {
+      "name" : "MenheraFite",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "you_tried"
+    },
+    {
+      "name" : "frpoint",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "laughclap"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraYes"
+    },
+    {
+      "name" : "panik",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraFacepillow",
+      "type" : ".png"
+    },
+    {
+      "name" : "frtranslucent",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "frtired"
+    },
+    {
+      "name" : "FrMonarch",
+      "type" : ".png"
+    },
+    {
+      "name" : "holyFuck",
+      "type" : ".png"
+    },
+    {
+      "name" : "pensive_cowbread",
+      "type" : ".png"
+    },
+    {
+      "name" : "tr",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrSpongebob"
+    },
+    {
+      "name" : "lul",
+      "type" : ".png"
+    },
+    {
+      "name" : "Angerycry",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "plugwalk"
+    },
+    {
+      "type" : ".gif",
+      "name" : "blobdance2"
+    },
+    {
+      "name" : "cozy",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "fasterEyes"
+    },
+    {
+      "name" : "FrWhite",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraIForgiveYou"
+    },
+    {
+      "name" : "frblind",
+      "type" : ".png"
+    },
+    {
+      "name" : "duplicate",
+      "type" : ".png"
+    },
+    {
+      "name" : "u0trash",
+      "type" : ".png"
+    },
+    {
+      "name" : "niarf",
+      "type" : ".png"
+    },
+    {
+      "name" : "intjspaz",
+      "type" : ".gif"
+    },
+    {
+      "name" : "hug4",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraSpin",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraTeehee"
+    },
+    {
+      "name" : "nthishowitis",
+      "type" : ".png"
+    },
+    {
+      "name" : "frpetcoal",
+      "type" : ".gif"
+    },
+    {
+      "name" : "thisisnothowitis",
+      "type" : ".png"
+    },
+    {
+      "name" : "frbiden",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraWink",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraNo~1",
       "type" : ".png"
     },
     {
@@ -2196,43 +1979,260 @@
     },
     {
       "type" : ".png",
-      "name" : "FrOrange"
-    },
-    {
-      "type" : ".png",
-      "name" : "frgreen"
-    },
-    {
-      "type" : ".png",
-      "name" : "FrTipsFedora"
-    },
-    {
-      "type" : ".png",
-      "name" : "woeisme"
-    },
-    {
-      "type" : ".png",
-      "name" : "think2"
-    },
-    {
-      "name" : "retweet",
-      "type" : ".png"
-    },
-    {
-      "name" : "peek",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "peepoNo"
+      "name" : "MenheraWindow"
     },
     {
       "type" : ".gif",
-      "name" : "KannaWave"
+      "name" : "MenheraCheers"
     },
     {
-      "name" : "eyesShake",
+      "name" : "pepeDLS",
       "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "whatcanisay"
+    },
+    {
+      "name" : "aBongo",
+      "type" : ".gif"
+    },
+    {
+      "name" : "frnodsanta",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "half"
+    },
+    {
+      "name" : "huan",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraShocked"
+    },
+    {
+      "type" : ".png",
+      "name" : "02blind"
+    },
+    {
+      "type" : ".png",
+      "name" : "intjannoyed"
+    },
+    {
+      "name" : "MenheraChibiPhoneSlam",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "dead"
+    },
+    {
+      "type" : ".gif",
+      "name" : "maybe"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrBruh"
+    },
+    {
+      "name" : "cri",
+      "type" : ".png"
+    },
+    {
+      "name" : "slam",
+      "type" : ".gif"
+    },
+    {
+      "name" : "frcyclops",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "MenheraLove2"
+    },
+    {
+      "name" : "rickapprove",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "omegalul"
+    },
+    {
+      "name" : "02yes",
+      "type" : ".png"
+    },
+    {
+      "name" : "timgrin",
+      "type" : ".png"
+    },
+    {
+      "name" : "stfuketo",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "Pogey"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrNerd"
+    },
+    {
+      "name" : "MenheraSalute2",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "frchoccy"
+    },
+    {
+      "type" : ".png",
+      "name" : "frpog1"
+    },
+    {
+      "type" : ".png",
+      "name" : "frsleeping"
+    },
+    {
+      "type" : ".gif",
+      "name" : "MenheraChibiRoll2"
+    },
+    {
+      "name" : "VERYCONCERNED",
+      "type" : ".png"
+    },
+    {
+      "name" : "FrBonk",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraCold",
+      "type" : ".gif"
+    },
+    {
+      "name" : "frcop",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraChibiThankYou"
+    },
+    {
+      "name" : "MenheraPeek2",
+      "type" : ".gif"
+    },
+    {
+      "name" : "MenheraHeart2",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrSantaCocoa"
+    },
+    {
+      "type" : ".png",
+      "name" : "02wave"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraBlush"
+    },
+    {
+      "name" : "frpog",
+      "type" : ".png"
+    },
+    {
+      "name" : "bruh",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "banhammer"
+    },
+    {
+      "type" : ".gif",
+      "name" : "MenheraChibiBells"
+    },
+    {
+      "name" : "FrWoeIs",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "frpale"
+    },
+    {
+      "name" : "02patgif",
+      "type" : ".gif"
+    },
+    {
+      "name" : "02gasm",
+      "type" : ".png"
+    },
+    {
+      "name" : "MenheraDevil",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "fr"
+    },
+    {
+      "name" : "MenheraDance2",
+      "type" : ".gif"
+    },
+    {
+      "name" : "Fr3",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "FrAlien"
+    },
+    {
+      "name" : "frnodfast",
+      "type" : ".gif"
+    },
+    {
+      "name" : "eyes_sus",
+      "type" : ".png"
+    },
+    {
+      "name" : "intjangry",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "frpirate"
+    },
+    {
+      "type" : ".png",
+      "name" : "rip"
+    },
+    {
+      "name" : "CatCrying",
+      "type" : ".png"
+    },
+    {
+      "name" : "A_CheckPins_REH",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "MenheraNyan"
+    },
+    {
+      "name" : "trolldisappointed",
+      "type" : ".png"
+    },
+    {
+      "name" : "FrJoker",
+      "type" : ".png"
     }
-  ]
+  ],
+  "name" : "hmuy's emotes"
 }
